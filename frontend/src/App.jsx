@@ -147,7 +147,7 @@ function App() {
   return (
     <div className="p-10 min-h-screen bg-gray-100">
       <h1 className="text-4xl font-bold mb-8 text-center">
-        Dynamic Burger Builder
+        BURGER BUILDER BY MANORANJAN
       </h1>
 
       {/* Ingredient Buttons */}
