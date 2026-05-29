@@ -119,7 +119,7 @@ function App() {
       };
 
       const response = await axios.post(
-        "http://localhost:5000/api/order/create",
+        "https://burgerbuilderapp-backend.onrender.com/api/order/create",
         payload,
       );
 
